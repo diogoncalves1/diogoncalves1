@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Olá, eu sou o TEU_NOME
 
-<!--
-**diogoncalves1/diogoncalves1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor apaixonado por tecnologia, código limpo e soluções eficientes.  
+🚀 Sempre a aprender e a construir coisas novas.  
+🌍 Portugal
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+- 🔭 Atualmente a trabalhar em projetos web e backend
+- 🌱 A aprender arquitetura de software e cloud
+- 👯 Aberto a colaborar em projetos open-source
+- ⚡ Gosto de resolver problemas complexos com código simples
+
+---
+
+## 🚀 Tecnologias
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 Estatísticas GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TEU_USERNAME&theme=tokyonight)
+
+---
+
+## 🏆 Troféus
+
+![trophy](https://github-profile-trophy.vercel.app/?username=TEU_USERNAME&theme=tokyonight&no-frame=true&row=1)
+
+---
+
+## 📌 Projetos em destaque
+
+- 🚀 [Projeto 1](https://github.com/TEU_USERNAME/projeto1)
+- 📦 [Projeto 2](https://github.com/TEU_USERNAME/projeto2)
+- 🌐 [Portfolio](https://teusite.com)
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: https://linkedin.com/in/teuperfil
+- Email: teuemail@gmail.com
+- Website: https://teusite.com
+
+---
+
+💡 *“Code is like humor. When you have to explain it, it’s bad.”*
