@@ -40,7 +40,7 @@
 
 ## 📌 Projetos em destaque
 
-- 🚀 [Cash Manager]((https://cashmanager-web.onrender.com))
+- 🚀 [Cash Manager](https://cashmanager-web.onrender.com)
 
 ---
 
