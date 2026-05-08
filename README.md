@@ -26,14 +26,6 @@
 
 ---
 
-## 📊 Estatísticas GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=diogoncalves1&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoncalves1&layout=compact)
-
----
-
 ## 🔥 Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=diogoncalves1&theme=tokyonight)
