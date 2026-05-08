@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o TEU_NOME
+# 👋 Olá, eu sou o Diogo Gonçalves
 
 💻 Desenvolvedor apaixonado por tecnologia, código limpo e soluções eficientes.  
 🚀 Sempre a aprender e a construir coisas novas.  
@@ -48,9 +48,7 @@
 
 ## 📌 Projetos em destaque
 
-- 🚀 [Projeto 1](https://github.com/TEU_USERNAME/projeto1)
-- 📦 [Projeto 2](https://github.com/TEU_USERNAME/projeto2)
-- 🌐 [Portfolio](https://teusite.com)
+- 🚀 [Cash Manager]([https://github.com/TEU_USERNAME/projeto1](https://cashmanager-web.onrender.com))
 
 ---
 
