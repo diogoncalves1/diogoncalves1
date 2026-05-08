@@ -34,7 +34,7 @@
 
 ## 🏆 Troféus
 
-![trophy](https://github-profile-trophy.vercel.app/?username=diogoncalves1&theme=tokyonight&no-frame=true&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=diogoncalves1&theme=aura&no-frame=true&row=1)
 
 ---
 
