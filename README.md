@@ -30,25 +30,25 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoncalves1&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TEU_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=diogoncalves1&theme=tokyonight)
 
 ---
 
 ## 🏆 Troféus
 
-![trophy](https://github-profile-trophy.vercel.app/?username=TEU_USERNAME&theme=tokyonight&no-frame=true&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=diogoncalves1&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
 ## 📌 Projetos em destaque
 
-- 🚀 [Cash Manager]([https://github.com/TEU_USERNAME/projeto1](https://cashmanager-web.onrender.com))
+- 🚀 [Cash Manager]([Cash Manager](https://cashmanager-web.onrender.com))
 
 ---
 
