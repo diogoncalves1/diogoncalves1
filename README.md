@@ -1,17 +1,8 @@
 # 👋 Olá, eu sou o Diogo Gonçalves
 
 💻 Desenvolvedor focado em criar aplicações web modernas, escaláveis e bem estruturadas.  
-🚀 Trabalho principalmente com backend e frontend full-stack, transformando ideias em produtos funcionais.  
+🚀 Trabalho principalmente com backend e frontend full-stack, a transformar ideias em produtos funcionais.  
 🌍 Portugal
-
----
-
-## 🧠 Sobre mim
-
-- 🔭 Atualmente a trabalhar em projetos web e backend
-- 🌱 A aprender arquitetura de software e cloud
-- 👯 Aberto a colaborar em projetos open-source
-- ⚡ Gosto de resolver problemas complexos com código simples
 
 ---
 
