@@ -20,7 +20,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=diogoncalves1&theme=gruvbox&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogoncalves1&theme=gruvbox&hide_border=true&show_icons=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=diogoncalves1&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
 
