@@ -1,48 +1,34 @@
-# 👋 Olá, eu sou o Diogo Gonçalves
+# Olá, eu sou o Diogo Gonçalves
 
-💻 Desenvolvedor focado em criar aplicações web modernas, escaláveis e bem estruturadas.  
-🚀 Trabalho com desenvolvimento full-stack, transformando ideias em produtos reais e funcionais.  
-🌍 Portugal
 
----
+## Tecnologias
 
-## 🚀 Tecnologias
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-5C4033?style=for-the-badge&logo=laravel&logoColor=EAD7B7)
+![Next.js](https://img.shields.io/badge/Next.js-5C4033?style=for-the-badge&logo=next.js&logoColor=EAD7B7)
+![Node.js](https://img.shields.io/badge/Node.js-5C4033?style=for-the-badge&logo=node.js&logoColor=EAD7B7)
+![TypeScript](https://img.shields.io/badge/TypeScript-5C4033?style=for-the-badge&logo=typescript&logoColor=EAD7B7)
+![MySQL](https://img.shields.io/badge/MySQL-5C4033?style=for-the-badge&logo=mysql&logoColor=EAD7B7)
 
 ---
 
-## 🔥 GitHub Activity
+## GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=diogoncalves1&theme=gruvbox&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=diogoncalves1&theme=dark&hide_border=true)
 
 ![](https://github-readme-stats.shion.dev/api?username=diogoncalves1&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
 
-## 🧠 Foco atual
+## Projeto em destaque
 
-- Desenvolvimento de aplicações web escaláveis
-- Arquitetura full-stack moderna
-- Performance e boas práticas de código
-- Experiência de utilizador (UX)
+- **Cash Manager** → https://cashmanager-web.onrender.com
 
 ---
 
-## 🚀 Projeto em destaque
-
-- 🚀 **Cash Manager** → https://cashmanager-web.onrender.com
-
----
-
-## 📫 Contacto
+## Contacto
 
 - LinkedIn: https://www.linkedin.com/in/diogo-gonçalves-developer
 
 ---
 
-⭐ *Sempre a aprender, sempre a construir.*
+*Sempre a aprender, sempre a construir.*
