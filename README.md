@@ -22,9 +22,12 @@
 
 ---
 
-## 🏆 Troféus
+## 🏆 Stats
 
-![trophy](https://github-profile-trophy.vercel.app/?username=diogoncalves1&theme=aura&no-frame=true&row=1)
+![](https://github-readme-stats.shion.dev/api?username=J0rgeSilva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=J0rgeSilva&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=J0rgeSilva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
