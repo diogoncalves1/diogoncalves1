@@ -18,13 +18,13 @@
 
 ## 🔥 Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=diogoncalves1&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=diogoncalves1&theme=merko)
 
 ---
 
 ## 🏆 Stats
 
-![](https://github-readme-stats.shion.dev/api?username=diogoncalves1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=diogoncalves1&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
 ---
