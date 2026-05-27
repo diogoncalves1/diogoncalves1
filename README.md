@@ -18,7 +18,7 @@
 
 ## 🔥 Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=diogoncalves1&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=diogoncalves1&theme=dark)
 
 ---
 
