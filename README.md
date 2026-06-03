@@ -13,9 +13,16 @@
 
 ## GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=diogoncalves1&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api?username=diogoncalves1&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=diogoncalves1&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=diogoncalves1&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+  </tr>
+</table>
 
 ---
 
