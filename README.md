@@ -28,7 +28,7 @@
 
 ## Projeto em destaque
 
-- **Cash Manager** → [https://cashmanager-web.onrender.com](https://cashmanager-pt.vercel.app)
+- **Cash Manager** → [cashmanager](https://cashmanager-pt.vercel.app)
 
 ---
 
